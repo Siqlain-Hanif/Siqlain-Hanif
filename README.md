@@ -1,13 +1,9 @@
 <h2>
   Hi I'm Siqlain Hanif
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Siqlain-Hanif">
 </h2> 
 
-
-<p>
-  I'm a 26 innovative optimized solution seeker from Pakistan. Excited to be at the new phase of my career as a full-stack software engineer. I see myself as someone who can make a major impact in the world and I just wanna see how much of foot print I can leave on the earth before I leave.
-</p>
 
 <h3>Things I usually use</h3>
 <p>
